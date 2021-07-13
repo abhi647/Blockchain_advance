@@ -16,5 +16,5 @@
 
 * Select environment (injected web3)![img](https://ethereum-blockchain-developer.com/002-first-smart-contract/images/2021-01-30-17-38-36.png)
 * Connect to metamask![img](https://ethereum-blockchain-developer.com/002-first-smart-contract/images/2021-01-30-17-40-06.png)
-* > Click on deploy![img](https://ethereum-blockchain-developer.com/002-first-smart-contract/images/2021-01-30-17-44-51.png)
+* Click on deploy![img](https://ethereum-blockchain-developer.com/002-first-smart-contract/images/2021-01-30-17-44-51.png)
 * Confirm the transaction![img](https://ethereum-blockchain-developer.com/002-first-smart-contract/images/2021-01-30-17-46-45.png)
